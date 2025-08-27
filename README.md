@@ -6,7 +6,8 @@
 ### ССылка на репозиторий с архивом
 ### https://github.com/Sem20071/my_own_collection/tree/main/my_own_namespace/yandex_cloud_elk 
 
-Ответ:
+## Ответ:
+
 4. Проверьте module на исполняемость локально.
 ![Скриншот консоли 1](https://github.com/Sem20071/my_own_collection/blob/main/my_own_namespace/images/ansible-06-04.png)
 
