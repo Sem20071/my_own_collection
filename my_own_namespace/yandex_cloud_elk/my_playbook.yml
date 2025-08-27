@@ -1,0 +1,6 @@
+---
+- name: create test file
+  hosts: localhost
+  connection: local
+  roles:
+    - role-file-create
