@@ -1,0 +1,5 @@
+---
+  - src: git@github.com:Sem20071/my_own_collection.git
+    scm: git
+    version: "1.0.0"
+    name: role-file-create

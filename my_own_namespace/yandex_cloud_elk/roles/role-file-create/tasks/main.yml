@@ -1,5 +1,5 @@
 ---
 - name: Create test file
-  my_own_namespace.yandex_cloud_elk.my_own_module:
+  my_own_namespace.my_own_module:
     path: "{{ path }}"
     content: "{{ content_file }}"
