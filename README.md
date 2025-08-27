@@ -8,11 +8,11 @@
 
 Ответ:
 4. Проверьте module на исполняемость локально.
-![Скриншот консоли 1]()
+![Скриншот консоли 1](https://github.com/Sem20071/my_own_collection/blob/main/my_own_namespace/images/ansible-06-04.png)
 
 6. Проверьте через playbook на идемпотентность.
-![Скриншот консоли 2]()
+![Скриншот консоли 2](https://github.com/Sem20071/my_own_collection/blob/main/my_own_namespace/images/ansible-06-06.png)
 
 15-16. Установите collection из локального архива: ansible-galaxy collection install <archivename>.tar.gz. Запустите playbook, убедитесь, что он работает
 
-![Скриншот консоли 3]()
+![Скриншот консоли 3](https://github.com/Sem20071/my_own_collection/blob/main/my_own_namespace/images/ansible-06-16.png)
